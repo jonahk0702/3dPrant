@@ -1,0 +1,15 @@
+.block{
+	border: 0.1em solid;
+	margin: 3%;
+	padding: 3%;
+
+}
+
+.normalText{
+		
+	font-size: 130%;
+}
+
+.space{
+	text-align: center;
+}
